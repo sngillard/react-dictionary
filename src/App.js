@@ -8,12 +8,8 @@ export default function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
-          <Dictionary defaultKeyword="delightful" />
+          <Dictionary defaultKeyword="sunrise" />
         </main>
-        <footer className="text-center">
-          {" "}
-          <small>Coded by Sarah Gillard</small>
-        </footer>
       </div>
     </div>
   );

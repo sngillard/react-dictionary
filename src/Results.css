@@ -1,5 +1,5 @@
-.Results h2 {
-  font-size: 36px;
+.Results .word {
+  font-size: 38px;
   font-weight: bold;
-  line-height: 1.5;
+  color: #6d39e7;
 }

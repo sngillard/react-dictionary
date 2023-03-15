@@ -58,8 +58,8 @@ export default function Dictionary(props) {
             />
           </form>
           <div className="hint">
-            <strong>suggested words: </strong>sunrise, macaroon, sakura, cozy,
-            cotton candy...
+            <strong>suggested words: </strong>sunrise, macaroon, cherry blossom,
+            cozy, cotton candy...
           </div>
         </section>
         <Results results={results} />
